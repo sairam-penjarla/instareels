@@ -1,0 +1,5 @@
+options: ["Professional Sleeper", "Dog Surfing Instructor", "Pet Food Taster", "Professional Cuddler", "Water Slide Tester", "Snake Milker", "Wrinkle Chaser", "Line Standers", "Professional Sleeper"]
+question: "What will be your future job?"
+fsize: 4
+white: [255, 255, 255]
+black: [0, 0, 0]
