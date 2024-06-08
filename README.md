@@ -38,7 +38,7 @@ This project uses OpenCV to capture video from the webcam, detect faces, and dis
 2. Run the script:
 
     ```sh
-    python favorite_number_app.py
+    python main.py
     ```
 
 3. Press `q` to quit the application.
